@@ -1,1 +1,1 @@
-Using this repo to showcase my LISP practice
+Practicing and showcasing my LISP journey (my cram before my PLC final)
